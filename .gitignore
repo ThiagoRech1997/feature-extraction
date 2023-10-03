@@ -131,3 +131,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Segmentation image
+imgMaiusculas
+
+# CSV file
+*.csv
